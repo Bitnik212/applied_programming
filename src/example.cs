@@ -37,7 +37,7 @@ namespace ConsoleApplication
         string str_messagebox_style = String.Format("{0}", messagebox_style); // флаги можно записать в строку для вывода в окошко
         ///MessageBox(0, str_messagebox_style, "58133", (int)messagebox_style); // раскомментировать /// в Visual Studio 2015 или выше 
       }
-      ///Console. ReadKey();
+      // Console. ReadKey();
     }
   }
 }
